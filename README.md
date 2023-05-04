@@ -16,3 +16,6 @@ Maintain a sense of humility and openness to unconventional ideas, embrace creat
 renny-ren/renny-ren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## Websites
+[aii.chat](https://aii.chat) - a platform to chat with AI
