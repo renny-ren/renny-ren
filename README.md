@@ -18,4 +18,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Websites
-[aii.chat](https://aii.chat) - a platform to chat with AI
+[aiichat.top](https://aiichat.top) - a platform to chat with AI
