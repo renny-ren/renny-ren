@@ -19,4 +19,6 @@ You can click the Preview link to take a look at your changes.
 
 ## Websites
 [zyzy.chat](https://zyzy.chat) - a platform to chat with AI  
-[ac.aiichat.cn](https://ac.aiichat.cn/) - a simple chatroom application
+[ac.aiichat.cn](https://ac.aiichat.cn/) - a simple chatroom application  
+[jiujiu IELTS](https://jiujiuen.cn/) - an IELTS exam preparation platform  
+[renny.ren](https://renny.ren/) - my blog  
